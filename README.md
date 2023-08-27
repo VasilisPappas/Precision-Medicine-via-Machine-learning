@@ -10,15 +10,14 @@ and **neurocognitive** indicators evaluating cognitive brain function, memory an
 
 The central aim is to refine questionnaires, maintaining efficacy through question reduction. 
 By leveraging 61 variables like age, gender, education, and diagnosis, the objective is to categorize patients using their responses or those provided by caregivers.
-The diagnosis variable has four classes: 
+The **diagnosis** variable has four classes: 
 
-0: normal diagnosis, 
+* 0: normal diagnosis 
 
-1: mild cognitive impairment (MCI),
+* 1: mild cognitive impairment (MCI)
 
-2: dementia due to Alzheimer's disease (AD)
+* 2: dementia due to Alzheimer's disease (AD)
 
-3: other types of dementia or pre-dementia syndromes like Parkinson's disease dementia or vascular dementia.
+* 3: other types of dementia or pre-dementia syndromes like Parkinson's disease dementia or vascular dementia. 
 
-Precision (or personalized) medicine employs comprehensive data, encompassing demographic features and biomarkers, to facilitate tailored medical interventions.
-Although this dataset lacks biomarkers and sufficient demographic data, it serves as an initial foray into precision medicine, where patients are distinguished based on a growing array of variables.
+### Precision (or personalized) medicine employs comprehensive data, encompassing demographic features and biomarkers, to facilitate tailored medical interventions. Although this dataset lacks biomarkers and sufficient demographic data, it serves as an initial foray into precision medicine, where patients are distinguished based on a growing array of variables.
