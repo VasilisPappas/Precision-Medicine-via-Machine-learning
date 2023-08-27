@@ -4,7 +4,7 @@ The study utilizes real-world data from individuals aged 50 and above, dealing w
 
 The dataset includes 554 patients, both males and females, who sought psychological and mental health assessment at the University General Hospital of Patras (UGHP).
 Data collection was overseen by Associate Professor Alexopoulos Panagiotis from UGHP's Special Clinic of Psychiatry and Early Diagnosis of Neurological Disorders. 
-Patients underwent comprehensive neuropsychological assessments divided into two categories: **neuropsychiatric** indicators related to psychiatric and depressive symptoms 
+Patients underwent comprehensive neuropsychological assessments ['Diagnostic tools'](https://github.com/VasilisPappas/Precision-Medicine-via-Machine-learning/blob/main/Diagnostic%20tools.md) divided into two categories: **neuropsychiatric** indicators related to psychiatric and depressive symptoms 
 and **neurocognitive** indicators evaluating cognitive brain function, memory and abilities.
 
 
