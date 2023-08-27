@@ -2,7 +2,7 @@
 This project demonstrates the application of supervised learning techniques, specifically **tree-based algorithms** like Random Forests and XG Boosting trees, in conjunction with interpretability methods, *LIME* and *SHAP*. 
 The study utilizes real-world data from individuals aged 50 and above, dealing with depressive syndromes or forms of dementia.
 
-The dataset includes 554 patients, both males and females, who sought psychological and mental health assessment at the University General Hospital of Patras (UGHP).
+The dataset includes 504 patients, both males and females, who sought psychological and mental health assessment at the University General Hospital of Patras (UGHP).
 Data collection was overseen by Associate Professor Alexopoulos Panagiotis from UGHP's Special Clinic of Psychiatry and Early Diagnosis of Neurological Disorders. 
 Patients underwent comprehensive neuropsychological assessments (take a look:['Diagnostic tools'](https://github.com/VasilisPappas/Precision-Medicine-via-Machine-learning/blob/main/Diagnostic%20tools.md)) divided into two categories: **neuropsychiatric** indicators related to psychiatric and depressive symptoms 
 and **neurocognitive** indicators evaluating cognitive brain function, memory and abilities.
