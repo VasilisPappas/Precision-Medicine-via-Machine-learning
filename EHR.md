@@ -1,4 +1,4 @@
-# Electronic Health Records
+# Electronic Health Records.
 
 The advent of real-time tools and data access through the development of the **Internet of Things (IoT)** has revolutionized medical science, enabling the management of electronic health records (EHRs) 
 and electronic medical records (EMRs). 
