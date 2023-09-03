@@ -1,4 +1,4 @@
-# Predicting dementia and anxiety
+# Predicting dementia and anxiety.
 This project demonstrates the application of supervised learning techniques, specifically **tree-based algorithms** like Random Forests and XG Boosting trees, in conjunction with interpretability methods, [LIME and SHAP](https://github.com/VasilisPappas/Precision-Medicine-via-Machine-learning/blob/main/LIME%20and%20SHAP%20for%20Black%20box%20models.md). 
 The study utilizes real-world data from individuals aged 50 and above, dealing with depressive syndromes or forms of dementia.
 
